@@ -16,9 +16,12 @@ Resultados
 ==========
 Resultados del programa:
 ```
-![Results](loss-of-significance.py)
-
-
+valores exactos: [1.414213562, 2.236067978, 3.16227766]
+valores float32 [1.4142135, 2.236068, 3.1622777]
+error de float32 [1.6850453026039418e-08, 1.4458505113789782e-08, 1.2180096074446877e-08]
+valors float64 [1.4142135623730951, 2.2360679774997898, 3.1622776601683795]
+error de float64 [2.638180826341045e-10, 2.2370075529360522e-10, 5.3246283420640616e-11]
 ```
 el siguiente gráfico representa el error de cada uno.
+
 ![Results](loss-of-significance.png)
