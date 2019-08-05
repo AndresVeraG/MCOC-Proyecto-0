@@ -9,7 +9,7 @@ En este código se verá cómo afecta el float32 y float64 dentro de un código,
  
 Ejemplo
 ========
-Para este código se usaron 3 números; 2, 5 y 10. De estos se sacó la raíz con calculadora primero, dejando estos como raíces exactas, luego se calculó cada raíz vinculados al float32 y float64. A partir de esto se midió el error y luego se comparó en un gráfico.
+Para este código se usaron 3 números; 2, 5 y 10. De estos se sacó la raíz cuadratica con calculadora primero, dejando estos como raíces exactas, luego se calculó cada raíz vinculados al float32 y float64. A partir de esto se midió el error y luego se comparó en un gráfico.
 
 
 Resultados
@@ -25,3 +25,9 @@ error de float64 [2.638180826341045e-10, 2.2370075529360522e-10, 5.3246283420640
 el siguiente gráfico representa el error de cada uno.
 
 ![Results](loss-of-significance.png)
+
+Recursos
+========
+https://github.com/jaabell/MCOC-Proyecto-0
+https://en.wikipedia.org/wiki/Loss_of_significance
+https://www.youtube.com/watch?v=PZRI1IfStY0&feature=youtu.be
