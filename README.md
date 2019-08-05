@@ -31,4 +31,5 @@ Recursos
 https://github.com/jaabell/MCOC-Proyecto-0
 
 https://en.wikipedia.org/wiki/Loss_of_significance
+
 https://www.youtube.com/watch?v=PZRI1IfStY0&feature=youtu.be
